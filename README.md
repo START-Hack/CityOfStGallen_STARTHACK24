@@ -10,7 +10,7 @@ Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis feli
 
 <p align="center"> Insert Pitchdeck here </p>
 
-### <p align="center"> Deep Dive Slides: </p>
+## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> Insert Deep Dive Slides here </p>
 
@@ -18,7 +18,7 @@ Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis feli
 
 Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
 
-### Resources
+##  <p align="center"> Resources: </p>
 - Lorem ipsum dolor sit amet
 - consectetur adipiscing elit
 
