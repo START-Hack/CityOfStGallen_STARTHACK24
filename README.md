@@ -94,7 +94,7 @@ Presentation (20%)
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
 ### Prize Name
-Your are winning a Paragliding flight over eastern Switzerland!
+You are winning a Paragliding flight over eastern Switzerland!
 ![image](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/assets/62013029/cbdf6fcd-5d2d-412e-bc4b-995b27713476)
 
 
