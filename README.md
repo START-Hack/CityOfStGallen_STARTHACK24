@@ -36,8 +36,8 @@ A contemporary digital tool that:
 ## <p align="center"> Further Information: </p>
 
 Standardized Evaluation Grid:
-![image](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/assets/62013029/8aa18fb1-0752-40dc-b827-1028c389991c)
 
+![image](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/assets/62013029/338331ce-b725-4800-88a0-92e610b0cb28)
 
 ##  <p align="center"> Resources: </p>
 
