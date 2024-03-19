@@ -35,12 +35,16 @@ A contemporary digital tool that:
 
 ## <p align="center"> Further Information: </p>
 
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
+Standardized Evaluation Grid:
+![image](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/assets/62013029/8aa18fb1-0752-40dc-b827-1028c389991c)
+
 
 ##  <p align="center"> Resources: </p>
 
 Unstructured data:
 - Analog evaluation of two different subjects
+  - German
+  - Maths
 - Lehrplan21 on website
 
 Structured data:
@@ -84,7 +88,7 @@ Presentation (20%)
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Nicola Wullschleger, Mariia Kolisnyk, Rahel Rusterholz and Marco Käppeli will be glad to answer your questions during the Deep Dive, during the partner slots and other availabilities. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
