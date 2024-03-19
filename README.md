@@ -58,21 +58,25 @@ Creativity & Innovation (20%)
 - Is something completely new or does it at least take a new approach to an old problem?
 - How creative or innovating is the idea?
 - How did the team deal with existing solutions that try to solve the same problem and how does that position their solution?
+
 Usefulness (20%)
 - How important and relevant is the use case of the prototype to address an identified problem?
 - Is it something people would actually use?
 - Is the solution practical for a heterogenous group of people?
 - Does it meet a real need for a heterogenous group of people?
+
 Technical complexity (20%)
 - How technically impressive / elaborate is the solution?
 - Have complex techniques, algorithms or combinations of different data and components been used?
 - Is appropriate technology and methodology used?
+
 Execution and Design (20%)
 - How usable is the hack in its current state?
 - How easy and intuitive is the solution to use?
 - Does everything seem to work?
 - How well designed is the hack?
 - Has the team incorporated thoughts regarding usability and design?
+
 Presentation (20%)
 - How attractively is the project presented?
 - Can the team explain in an understandable way what their solution actually does, what it is for and why it is important?
