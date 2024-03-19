@@ -31,7 +31,7 @@ A contemporary digital tool that:
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+Ressources/240320_START Hack 2024 Deep Dive.pdf
 
 ## <p align="center"> Further Information: </p>
 
