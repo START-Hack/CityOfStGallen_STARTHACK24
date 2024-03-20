@@ -31,7 +31,7 @@ A contemporary digital tool that:
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-[Slides Deep Dive](/Ressources/240320_START Hack 2024 Deep Dive.pdf)
+[Slides Deep Dive](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/240320_START Hack 2024 Deep Dive.pdf)
 
 ## <p align="center"> Further Information: </p>
 
