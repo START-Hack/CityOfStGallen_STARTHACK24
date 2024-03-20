@@ -24,18 +24,13 @@ A contemporary digital tool that:
 -	Eases the process of deriving report card grades for teachers, offering a better alternative to the e. g. paper-based evaluation system, without automatically converting evaluations into grades,
 -	Assists in demonstrating a student’s current progress during parent-teacher meetings.
 
-
-## <p align="center"> The Pitch: </p>
-
-<p align="center"> Insert Pitchdeck here </p>
-
 ## <p align="center"> Deep Dive Slides: </p>
 
 [Slides Deep Dive](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/240320_START%20Hack%202024%20Deep%20Dive.pdf)
 
 ## <p align="center"> Further Information: </p>
 
-Standardized Evaluation Grid:
+Standardized Evaluation Grid (example)
 
 ![image](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/assets/62013029/338331ce-b725-4800-88a0-92e610b0cb28)
 
@@ -53,7 +48,7 @@ Structured data: (all only acessible after user registration)
 - [Bildung Nachhaltige Entwicklung:](https://daten.stadt.sg.ch/explore/dataset/bildung-nachhaltige-entwicklung-lehrplan21-kanton-stgallen) Education in sustainable development (joinable with Lehrplan21 (by "querverweis"))
 - [Structured evaluation for German and Maths](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/Lernkontrollen_strukturiert.xlsx)
 
-Personal "data:
+Personal "data":
 - Up to 4 teachers that are available to answer questions
 
 
