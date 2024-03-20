@@ -31,7 +31,7 @@ A contemporary digital tool that:
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-Ressources/240320_START Hack 2024 Deep Dive.pdf
+[Slides Deep Dive](Ressources/240320_START Hack 2024 Deep Dive.pdf)
 
 ## <p align="center"> Further Information: </p>
 
@@ -43,14 +43,14 @@ Standardized Evaluation Grid:
 
 Unstructured data:
 - Analog evaluation of two different subjects
-  - German
-  - Maths
-- Lehrplan21 on website
+  - [German](Ressources/Lernkontrollen Deutsch.pdf)
+  - [Maths](Ressources/Lernkontrollen Mathematik.pdf)
+- [Lehrplan21 on website](https://sg.lehrplan.ch/)
 
-Structured data:
-- Lehrplan21: All subjects, their competences, etc
-- Überfachliche Kompetenzen: Interdisciplinary competences
-- Bildung Nachhaltige Entwicklung: Education in sustainable development (joinable with Lehrplan21 (by "querverweis")
+Structured data: (all only acessible after user registration)
+- [Lehrplan21:](https://daten.stadt.sg.ch/explore/dataset/lehrplan-21-kanton-st-gallen) All subjects, their competences, etc
+- [Überfachliche Kompetenzen:](https://daten.stadt.sg.ch/explore/dataset/ueberfachliche-kompetenzen-lehrplan21-kanton-stgallen) Interdisciplinary competences
+- [Bildung Nachhaltige Entwicklung:](https://daten.stadt.sg.ch/explore/dataset/bildung-nachhaltige-entwicklung-lehrplan21-kanton-stgallen) Education in sustainable development (joinable with Lehrplan21 (by "querverweis"))
 
 Personal "data:
 - Up to 4 teachers that are available to answer questions
