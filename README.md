@@ -31,7 +31,7 @@ A contemporary digital tool that:
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-[Slides Deep Dive](../Ressources/240320_START Hack 2024 Deep Dive.pdf)
+[Slides Deep Dive](/Ressources/240320_START Hack 2024 Deep Dive.pdf)
 
 ## <p align="center"> Further Information: </p>
 
@@ -43,8 +43,8 @@ Standardized Evaluation Grid:
 
 Unstructured data:
 - Analog evaluation of two different subjects
-  - [German](../Ressources/Lernkontrollen Deutsch.pdf)
-  - [Maths](../Ressources/Lernkontrollen Mathematik.pdf)
+  - [German](../blob/main/Ressources/Lernkontrollen Deutsch.pdf)
+  - [Maths](../blob/main/Ressources/Lernkontrollen Mathematik.pdf)
 - [Lehrplan21 on website](https://sg.lehrplan.ch/)
 
 Structured data: (all only acessible after user registration)
