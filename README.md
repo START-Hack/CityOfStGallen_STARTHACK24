@@ -31,7 +31,7 @@ A contemporary digital tool that:
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-[Slides Deep Dive](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/240320_START Hack 2024 Deep Dive.pdf)
+[Slides Deep Dive](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/240320_START%20Hack%202024%20Deep%20Dive.pdf)
 
 ## <p align="center"> Further Information: </p>
 
@@ -43,14 +43,15 @@ Standardized Evaluation Grid:
 
 Unstructured data:
 - Analog evaluation of two different subjects
-  - [German](../blob/main/Ressources/Lernkontrollen Deutsch.pdf)
-  - [Maths](../blob/main/Ressources/Lernkontrollen Mathematik.pdf)
+  - [German](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/Lernkontrollen%20Deutsch.pdf)
+  - [Maths](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/Lernkontrollen%20Mathematik.pdf)
 - [Lehrplan21 on website](https://sg.lehrplan.ch/)
 
 Structured data: (all only acessible after user registration)
 - [Lehrplan21:](https://daten.stadt.sg.ch/explore/dataset/lehrplan-21-kanton-st-gallen) All subjects, their competences, etc
 - [Überfachliche Kompetenzen:](https://daten.stadt.sg.ch/explore/dataset/ueberfachliche-kompetenzen-lehrplan21-kanton-stgallen) Interdisciplinary competences
 - [Bildung Nachhaltige Entwicklung:](https://daten.stadt.sg.ch/explore/dataset/bildung-nachhaltige-entwicklung-lehrplan21-kanton-stgallen) Education in sustainable development (joinable with Lehrplan21 (by "querverweis"))
+- [Structured evaluation for German and Maths](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/Lernkontrollen_strukturiert.xlsx)
 
 Personal "data:
 - Up to 4 teachers that are available to answer questions
