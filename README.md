@@ -27,6 +27,7 @@ A contemporary digital tool that:
 ## <p align="center"> Deep Dive Slides: </p>
 
 [Slides Deep Dive](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/240320_START%20Hack%202024%20Deep%20Dive.pdf)
+[Slides Deep Dive (pptx)](https://github.com/START-Hack/CityOfStGallen_STARTHACK24/blob/main/Ressources/240311_START%20Hack%202024%20Deep%20Dive.pptx)
 
 ## <p align="center"> Further Information: </p>
 
